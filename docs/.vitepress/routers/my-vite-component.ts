@@ -61,6 +61,11 @@ const Router: RouterType = [
         text: 'DrawImage 图片合并',
         link: '/my-vite-component/DrawImage/',
       },
+      {
+        text: 'CanvasAutograph 签名组件',
+        link: '/my-vite-component/CanvasAutograph/',
+      },
+
 
     ]
   },
