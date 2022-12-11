@@ -4,7 +4,7 @@ import Copyright from "./layout/Copyright.vue"
 import ValineComment from '../ValineComment/index.vue'
 import { useData } from 'vitepress'
 import md5 from 'blueimp-md5'
-import { onMounted } from 'vue';
+
 const { page, } = useData()
 const { Layout } = DefaultTheme
 const detectDeviceType = () => {

@@ -1,4 +1,5 @@
 import myViteComponent from "../routers/my-vite-component"
+import utils from "../routers/utils"
 
 function addCollapsible(data: any) {
   data.forEach(item => {
@@ -19,5 +20,6 @@ const resultList: {
   [key: string]: any
 } = {
   '/my-vite-component/': addCollapsible(myViteComponent),
+  '/utils/': addCollapsible(utils),
 }
 export default resultList

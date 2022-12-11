@@ -3,12 +3,17 @@
 import RouterType from "./types.type"
 const Router: RouterType = [
   {
-    text: '组件',
+    text: '起步',
     items: [
       {
         text: '开始',
         link: '/my-vite-component/introduce/',
       },
+    ]
+  },
+  {
+    text: '基础组件',
+    items: [
       {
         text: 'Button ',
         link: '/my-vite-component/Button/',
@@ -17,6 +22,11 @@ const Router: RouterType = [
         text: 'BackTop ',
         link: '/my-vite-component/BackTop/',
       },
+    ]
+  },
+  {
+    text: '业务组件',
+    items: [
       {
         text: 'DigitalScroll 数字滚动',
         link: '/my-vite-component/DigitalScroll/',
