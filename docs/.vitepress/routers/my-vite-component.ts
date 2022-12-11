@@ -65,8 +65,10 @@ const Router: RouterType = [
         text: 'CanvasAutograph 签名组件',
         link: '/my-vite-component/CanvasAutograph/',
       },
-
-
+      {
+        text: 'RedPacketRain 红包雨组件',
+        link: '/my-vite-component/RedPacketRain/',
+      },
     ]
   },
 ]
