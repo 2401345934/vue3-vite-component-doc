@@ -1,10 +1,14 @@
 {
   "name": "vue3-vite-component-doc",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "index.js",
   "homepage": "https://2401345934.github.io/vue3-vite-component-doc/",
   "bugs": "https://github.com/2401345934/vue3-vite-component-doc/issues/new",
   "author": "minghhui",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:2401345934/vue3-alan-vite-component.git"
+  },
   "scripts": {
     "version": "# 修改 version  \n zx bump.mjs",
     "start": "vitepress dev docs",
