@@ -7,8 +7,13 @@ const Router: RouterType = [
     items: [
 
       {
-        text: 'WaterMark 水印组件',
+        text: 'WaterMark 水印方法',
         link: '/utils/WaterMark/',
+      },
+
+      {
+        text: 'useToggleFullscreen 全屏组件方法',
+        link: '/utils/useToggleFullscreen/',
       },
     ]
   },

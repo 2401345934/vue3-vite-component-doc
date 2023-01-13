@@ -3,7 +3,7 @@ createTime: 2022/12/11
 tag: 'Vite,公用业务方法'
 ---
 
-# WaterMark 水印组件
+# WaterMark 水印方法
 
 ## 调用方法
 

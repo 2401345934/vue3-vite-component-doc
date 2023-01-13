@@ -1,6 +1,6 @@
 {
   "name": "vue3-vite-component-doc",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "main": "index.js",
   "homepage": "https://2401345934.github.io/vue3-vite-component-doc/",
   "bugs": "https://github.com/2401345934/vue3-vite-component-doc/issues/new",
@@ -47,7 +47,7 @@
     "zx": "^7.1.1"
   },
   "dependencies": {
-    "@xiaomh/vue3-alan-vite-component": "1.2.2",
+    "@xiaomh/vue3-alan-vite-component": "1.2.3",
     "blueimp-md5": "^2.19.0",
     "dayjs": "^1.11.6",
     "fast-glob": "^3.2.12",

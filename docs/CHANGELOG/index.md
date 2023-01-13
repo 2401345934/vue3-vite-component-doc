@@ -1,6 +1,7 @@
-## <small>1.0.5 (2022-12-11)</small>
+## <small>1.0.6 (2023-01-13)</small>
 
 * ✨新增(config): 关联github ([260c960](https://github.com/2401345934/vue3-alan-vite-component/commit/260c960))
+* ✨新增(doc/工作工具): 新增了公用方法 ([f68d3cb](https://github.com/2401345934/vue3-alan-vite-component/commit/f68d3cb))
 
 
 
